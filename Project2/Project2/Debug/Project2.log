@@ -1,0 +1,29 @@
+﻿Build started 09/10/2023 14.28.39.
+     1>Project "C:\DIFA\SEMESTER 5\Grafkom\PRAK\Project2\Project2\Project2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>c:\difa\semester 5\grafkom\prak\project2\project2\main.cpp(21): error C2065: 'argc' : undeclared identifier
+     1>c:\difa\semester 5\grafkom\prak\project2\project2\main.cpp(21): error C2065: 'argv' : undeclared identifier
+     1>c:\difa\semester 5\grafkom\prak\project2\project2\main.cpp(21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\difa\semester 5\grafkom\prak\project2\project2\main.cpp(21): error C2078: too many initializers
+     1>c:\difa\semester 5\grafkom\prak\project2\project2\main.cpp(22): error C2065: 'GLUT_SINGLE' : undeclared identifier
+     1>c:\difa\semester 5\grafkom\prak\project2\project2\main.cpp(22): error C2065: 'GLUT_RGB' : undeclared identifier
+     1>c:\difa\semester 5\grafkom\prak\project2\project2\main.cpp(22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\difa\semester 5\grafkom\prak\project2\project2\main.cpp(23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\difa\semester 5\grafkom\prak\project2\project2\main.cpp(23): error C2078: too many initializers
+     1>c:\difa\semester 5\grafkom\prak\project2\project2\main.cpp(24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\difa\semester 5\grafkom\prak\project2\project2\main.cpp(24): error C2440: 'initializing' : cannot convert from 'const char [10]' to 'int'
+                 There is no context in which this conversion is possible
+     1>c:\difa\semester 5\grafkom\prak\project2\project2\main.cpp(25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\difa\semester 5\grafkom\prak\project2\project2\main.cpp(26): error C2065: 'display' : undeclared identifier
+     1>c:\difa\semester 5\grafkom\prak\project2\project2\main.cpp(26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\difa\semester 5\grafkom\prak\project2\project2\main.cpp(27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\difa\semester 5\grafkom\prak\project2\project2\main.cpp(28): error C2059: syntax error : 'return'
+     1>c:\difa\semester 5\grafkom\prak\project2\project2\main.cpp(29): error C2059: syntax error : '}'
+     1>c:\difa\semester 5\grafkom\prak\project2\project2\main.cpp(29): error C2143: syntax error : missing ';' before '}'
+     1>Done Building Project "C:\DIFA\SEMESTER 5\Grafkom\PRAK\Project2\Project2\Project2.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.21
